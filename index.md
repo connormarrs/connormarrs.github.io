@@ -1,7 +1,7 @@
 ## Welcome to my personal website!
 
-![Me](/Images/IMG_2561.JPG)
-![Bowdoin Logo](/Images/Formal_Seal_of_Bowdoin_College,_Brunswick,_ME,_USA.svg.png)
+<img src="/Images/IMG_2561.JPG" alt="Me" width="100"/>
+<img src="/Images/Formal_Seal_of_Bowdoin_College,_Brunswick,_ME,_USA.svg.png" alt="Logo" width="100"/>
 
 I am currently a Research Assistant at the Bowdoin College Computer Science Department working on machine learning techniques applied to computational game theory. Moreover, I am interested broadly in algebraic geometry and low dimensional geometry/topology, and in particular their applications to computer science.
 
