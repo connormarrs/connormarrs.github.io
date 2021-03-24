@@ -4,10 +4,10 @@
 </p>
 
 ## Welcome to my personal website!
-I am currently a Research Assistant at the Bowdoin College Computer Science Department working on machine learning techniques applied to computational game theory. Moreover, I am interested broadly in algebraic geometry and low dimensional geometry/topology, and in particular their applications to computer science.
+I am currently a Research Assistant at the Bowdoin College Computer Science Department working on machine learning techniques applied to computational game theory. More generally, I love seeing how techniques from matrix analysis and geometry can deepen our understanding of machine learning techniques.
 
 ## Resume
-My resume can be downloaded [here](resume.pdf)
+My resume can be downloaded [here](Downloads/Resume.pdf)
 
 ###
 I will update this page regularly with notes, results, and other things relevant to my work, so please check it!
